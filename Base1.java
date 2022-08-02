@@ -32,7 +32,7 @@ public class Base1{
 		if (C.contains(D1)) {
 			
 		} else {
-sysout
+
 		} 
 	}
 
